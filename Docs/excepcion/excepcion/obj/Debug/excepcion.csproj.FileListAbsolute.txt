@@ -1,0 +1,7 @@
+C:\Users\gatit\source\repos\excepcion\excepcion\bin\Debug\excepcion.exe.config
+C:\Users\gatit\source\repos\excepcion\excepcion\bin\Debug\excepcion.exe
+C:\Users\gatit\source\repos\excepcion\excepcion\bin\Debug\excepcion.pdb
+C:\Users\gatit\source\repos\excepcion\excepcion\obj\Debug\excepcion.csprojAssemblyReference.cache
+C:\Users\gatit\source\repos\excepcion\excepcion\obj\Debug\excepcion.csproj.CoreCompileInputs.cache
+C:\Users\gatit\source\repos\excepcion\excepcion\obj\Debug\excepcion.exe
+C:\Users\gatit\source\repos\excepcion\excepcion\obj\Debug\excepcion.pdb
