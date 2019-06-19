@@ -1,0 +1,7 @@
+C:\Users\gatit\source\repos\TPV2doParcial\TPV2doParcial\bin\Debug\TPV2doParcial.exe.config
+C:\Users\gatit\source\repos\TPV2doParcial\TPV2doParcial\bin\Debug\TPV2doParcial.exe
+C:\Users\gatit\source\repos\TPV2doParcial\TPV2doParcial\bin\Debug\TPV2doParcial.pdb
+C:\Users\gatit\source\repos\TPV2doParcial\TPV2doParcial\obj\Debug\TPV2doParcial.csprojAssemblyReference.cache
+C:\Users\gatit\source\repos\TPV2doParcial\TPV2doParcial\obj\Debug\TPV2doParcial.csproj.CoreCompileInputs.cache
+C:\Users\gatit\source\repos\TPV2doParcial\TPV2doParcial\obj\Debug\TPV2doParcial.exe
+C:\Users\gatit\source\repos\TPV2doParcial\TPV2doParcial\obj\Debug\TPV2doParcial.pdb
