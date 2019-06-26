@@ -9,7 +9,7 @@ public class pv {
         int numero,cont,rotacion,aux;
         Scanner intput = new Scanner(System.in);
 
-        System.out.println("dame el numeor del arreglo");
+        System.out.println("dame el numero del arreglo");
         numero = intput.nextInt();
 
         int  arreglo[] = new int [numero];
